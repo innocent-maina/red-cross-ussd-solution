@@ -1,0 +1,45 @@
+{
+  "name": "AfriCarelink",
+  "description": "The service aims to improve healthcare accessibility within Africa. We offer users options of both general and specialized healthcare facilities, regardless of their geographic locations.",
+  "repository": "https://github.com/AfriCarelink/ussd/",
+  "logo": "",
+  "keywords": [
+    "node",
+    "express",
+    "mongodb",
+    "africastalking",
+    "ussd-builder",
+    "healthcare",
+    "ussd"
+  ],
+  "env": {
+    "PORT": {
+      "description": "App entry port on local PC",
+      "required": true
+    },
+    "MONGO_USER": {
+      "description": "MongoDB Database Username",
+      "required": true
+    },
+    "MONGO_PASS": {
+      "description": "MongoDB Database Password",
+      "required": true
+    },
+    "MONGO_COLLECTION": {
+      "description": "MongoDB Database Collection",
+      "required": true
+    },
+    "AT_SANDBOX_API_KEY": {
+      "description": "Africastalking Api key",
+      "required": true
+    },
+    "AT_SANDBOX_USERNAME": {
+      "description": "Africastalking username",
+      "required": true
+    },
+    "GOOGLE_MAPS_API_KEY": {
+      "description": "Google maps Api key",
+      "required": true
+    }
+  }
+}
