@@ -1,7 +1,6 @@
 {
-  "name": "AfriCarelink",
+  "name": "RedCrossUSSDSolution",
   "description": "The service aims to improve healthcare accessibility within Africa. We offer users options of both general and specialized healthcare facilities, regardless of their geographic locations.",
-  "repository": "https://github.com/AfriCarelink/ussd/",
   "logo": "",
   "keywords": [
     "node",

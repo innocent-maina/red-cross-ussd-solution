@@ -9,7 +9,7 @@ require('dotenv/config');
 // const { ProfilingIntegration } = require('@sentry/profiling-node');
 const express = require('express');
 const cors = require('cors');
-const path = require('path');
+// const path = require('path');
 // const mongoose = require('mongoose');
 // require('./config/database')(mongoose);
 
@@ -78,10 +78,10 @@ app.post('/incoming-messages', (req, res) => {
  ------------------------------------------------------* */
 const port = parseInt(process.env.PORT, 10) || 5000;
 
-app.get('/', (req, res) => {
-  const indexPath = path.join(__dirname, '/view/index.html'); // Update the path as needed
-  res.sendFile(indexPath);
-  // res.send('Your server is running');
+app.get('/', (res) => {
+  // const indexPath = path.join(__dirname, '/view/index.html'); // Update the path as needed
+  // res.sendFile(indexPath);
+  res.send('Your server is running');
 });
 
 app.listen(port, () => {

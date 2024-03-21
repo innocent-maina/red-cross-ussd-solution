@@ -24,7 +24,7 @@ module.exports = async function AppController(req, res) {
            *  First screen
            * ---------------------------------------
           ------------------------------------------------------* */
-          menu.con('AfriCareLink helps you find healthcare services near you!\n'
+          menu.con('Red Cross USSD helps you find healthcare services near you!\n'
               + '\n1. Emergency response'
               + '\n2. Healthcare Facility Locator'
               + '\n3. Specialized Clinics'

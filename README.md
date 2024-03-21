@@ -17,10 +17,6 @@ npm run dev
 npm start
 ```
 
-### Authors
+### Author
 
-- [Innocent Wahome](mailto: innocentwahome@gmail.com)
-- [Francis Waweru](mailto: hazardcryptos@gmail.com)
-- [Nigel Chimwene](mailto: nigelchimwene@gmail.com)
-- [Ryan Koech] (https://github.com/RyanKoech)
-- [Joseph Gicuguma](mailto: gicugumajoseph@gmail.com)
+- [Prudence Wanjau](mailto: pruwanjish@gmail.com)
