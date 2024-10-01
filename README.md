@@ -19,4 +19,4 @@ npm start
 
 ### Author
 
-- [Prudence Wanjau](mailto: pruwanjish@gmail.com)
+- [Innocent Maina](mailto: innocentwahome@gmail.com)
